@@ -6,8 +6,10 @@ Image AI LINEBot on AWS CloudFormation and CI/CD pipeline
 ###about product
 LINE Bot who analyzes a person's emotions, age, and gender when sent an image
 
-You can try it here!
-https://liff.line.me/1645278921-kWRPP32q?accountId=163yiazd&openerPlatform=native&openerKey=talkroom%3Amessage#mst_challenge=b1q1r9yarEAEX4gqFCFLGLddVf1ef9EDcH9jFRAlEmM
+this like
+![S__97501187 (2)](https://user-images.githubusercontent.com/73207535/125492312-94557266-9be6-4404-bb2a-fac4f928353f.jpg)
+
+
 
 ###about dev
 Using SAM to build and deploy the backend environment.
