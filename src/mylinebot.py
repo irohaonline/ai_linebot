@@ -1,5 +1,5 @@
 """
-オウム返し Line Bot
+画像解析 Line Bot
 """
 
 import os
