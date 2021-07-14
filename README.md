@@ -1,19 +1,15 @@
 ## ai_linebot
 Image AI LINEBot on AWS CloudFormation and CI/CD pipeline
 
-## about
 
-###about product
-LINE Bot who analyzes a person's emotions, age, and gender when sent an image
+***AWS Used:*** <br>
+AWS CodePipeline <br>
+AWS Sam <br>
+Amazon API Gateway <br>
+AWS Lambda <br>
+Amazon Rekognition <br>
 
-this like
-![S__97501187 (2)](https://user-images.githubusercontent.com/73207535/125492312-94557266-9be6-4404-bb2a-fac4f928353f.jpg)
 
-
-
-###about dev
-Using SAM to build and deploy the backend environment.
-Using Code Pipeline to set CI/CD with github
 
 ### Before you begin
 be familiar with AWS Serverless Application Model (AWS SAM) and codepipeline
@@ -41,3 +37,9 @@ artifacts:
 
 configure your pipeline
 https://console.aws.amazon.com/codepipeline/
+
+
+## product like
+
+product like
+![S__97501187 (2)](https://user-images.githubusercontent.com/73207535/125492312-94557266-9be6-4404-bb2a-fac4f928353f.jpg)
